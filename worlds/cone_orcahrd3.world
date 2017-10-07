@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<sdf version='1.6'>
+  <world name="default">
+
+    <!-- A global light source -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <!-- A ground plane -->
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+    
+	<!--physics type='ode'>
+		<max_step_size>0.001000</max_step_size>
+		<real_time_factor>1.000000</real_time_factor>
+		<real_time_update_rate>1000.000000</real_time_update_rate>
+		<gravity>0.000000 0.000000 -9.800000</gravity>
+	</physics-->    
+      
+    
+    
+    
+    
+ 
+
+    <!-- Testing the automatic population of objects -->
+    <population name="cone_population1">
+      <model name="cone1">
+        <include>
+          <static>true</static>
+          <uri>model://construction_cone</uri>         
+        </include>
+      </model>
+      <pose>0 0 0 0 0 0</pose>
+      <box>
+        <size>32 40 1</size>
+      </box>
+      <model_count>400</model_count>
+      <distribution>
+        <type>grid</type>
+        <rows>8</rows>
+        <cols>16</cols>
+        <step>2 4 0</step>
+      </distribution>
+    </population>
+    
+    
+    
+    <!-- Testing the automatic population of objects -->
+    <population name="cone_population2">
+      <model name="cone1">
+        <include>
+          <static>true</static>
+          <uri>model://construction_cone</uri>         
+        </include>
+      </model>
+      <pose>28 0 0 0 0 0</pose>
+      <box>
+        <size>32 40 1</size>
+      </box>
+      <model_count>400</model_count>
+      <distribution>
+        <type>grid</type>
+        <rows>8</rows>
+        <cols>4</cols>
+        <step>2 4 0</step>
+      </distribution>
+    </population>
+    
+    
+    <!-- Testing the automatic population of objects -->
+    <population name="cone_population3">
+      <model name="cone1">
+        <include>
+          <static>true</static>
+          <uri>model://construction_cone</uri>         
+        </include>
+      </model>
+      <pose>-28 0 0 0 0 0</pose>
+      <box>
+        <size>32 40 1</size>
+      </box>
+      <model_count>400</model_count>
+      <distribution>
+        <type>grid</type>
+        <rows>8</rows>
+        <cols>4</cols>
+        <step>2 4 0</step>
+      </distribution>
+    </population>
+    
+    
+     
+    <!-- Testing the automatic population of objects -->
+    <population name="cone_population4">
+      <model name="cone1">
+        <include>
+          <static>true</static>
+          <uri>model://construction_cone</uri>         
+        </include>
+      </model>
+      <pose>0 32 0 0 0 0</pose>
+      <box>
+        <size>32 40 1</size>
+      </box>
+      <model_count>400</model_count>
+      <distribution>
+        <type>grid</type>
+        <rows>4</rows>
+        <cols>16</cols>
+        <step>2 4 0</step>
+      </distribution>
+    </population>
+    
+      
+    <!-- Testing the automatic population of objects -->
+    <population name="cone_population5">
+      <model name="cone1">
+        <include>
+          <static>true</static>
+          <uri>model://construction_cone</uri>         
+        </include>
+      </model>
+      <pose>0 -32 0 0 0 0</pose>
+      <box>
+        <size>32 40 1</size>
+      </box>
+      <model_count>400</model_count>
+      <distribution>
+        <type>grid</type>
+        <rows>4</rows>
+        <cols>16</cols>
+        <step>2 4 0</step>
+      </distribution>
+    </population>
+    
+      
+  <!-- Testing the automatic population of objects -->
+    <population name="cone_population6">
+      <model name="cone1">
+        <include>
+          <static>true</static>
+          <uri>model://construction_cone</uri>         
+        </include>
+      </model>
+      <pose>-28 -32 0 0 0 0</pose>
+      <box>
+        <size>32 40 1</size>
+      </box>
+      <model_count>400</model_count>
+      <distribution>
+        <type>grid</type>
+        <rows>4</rows>
+        <cols>4</cols>
+        <step>2 4 0</step>
+      </distribution>
+    </population> 
+    
+   
+    <!-- Testing the automatic population of objects -->
+    <population name="cone_population7">
+      <model name="cone1">
+        <include>
+          <static>true</static>
+          <uri>model://construction_cone</uri>         
+        </include>
+      </model>
+      <pose>28 32 0 0 0 0</pose>
+      <box>
+        <size>32 40 1</size>
+      </box>
+      <model_count>400</model_count>
+      <distribution>
+        <type>grid</type>
+        <rows>4</rows>
+        <cols>4</cols>
+        <step>2 4 0</step>
+      </distribution>
+    </population>  
+  
+    
+   <!-- Testing the automatic population of objects -->
+    <population name="cone_population8">
+      <model name="cone1">
+        <include>
+          <static>true</static>
+          <uri>model://construction_cone</uri>         
+        </include>
+      </model>
+      <pose>28 -32 0 0 0 0</pose>
+      <box>
+        <size>32 40 1</size>
+      </box>
+      <model_count>400</model_count>
+      <distribution>
+        <type>grid</type>
+        <rows>4</rows>
+        <cols>4</cols>
+        <step>2 4 0</step>
+      </distribution>
+    </population>  
+    
+    
+     <!-- Testing the automatic population of objects -->
+    <population name="cone_population9">
+      <model name="cone1">
+        <include>
+          <static>true</static>
+          <uri>model://construction_cone</uri>         
+        </include>
+      </model>
+      <pose>-28 32 0 0 0 0</pose>
+      <box>
+        <size>32 40 1</size>
+      </box>
+      <model_count>400</model_count>
+      <distribution>
+        <type>grid</type>
+        <rows>4</rows>
+        <cols>4</cols>
+        <step>2 4 0</step>
+      </distribution>
+    </population>  
+     
+
+  </world>
+</sdf>
