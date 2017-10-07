@@ -1,0 +1,9 @@
+
+<launch>
+    <node pkg="rosbag" type="record" name="robot_bag" output="screen" args="-O /home/liron/jackal_navigation/src/my_pkg/bags/mybag /cmd_vel " />
+  
+
+ 
+</launch>
+
+

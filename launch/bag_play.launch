@@ -1,0 +1,9 @@
+
+<launch>
+        
+    <node pkg="rosbag" type="play" name="robot_bag_play" output="screen" args=" /home/liron/jackal_navigation/src/my_pkg/bags/mybag.bag" />
+
+ 
+</launch>
+
+
