@@ -1,0 +1,9390 @@
+name: ['ground_plane::link', 'cone1_clone_0::Construction Cone::link', 'cone1_clone_1::Construction Cone::link', 'cone1_clone_2::Construction Cone::link', 'cone1_clone_3::Construction Cone::link', 'cone1_clone_4::Construction Cone::link', 'cone1_clone_5::Construction Cone::link', 'cone1_clone_6::Construction Cone::link', 'cone1_clone_7::Construction Cone::link', 'cone1_clone_8::Construction Cone::link', 'cone1_clone_9::Construction Cone::link', 'cone1_clone_10::Construction Cone::link', 'cone1_clone_11::Construction Cone::link', 'cone1_clone_12::Construction Cone::link', 'cone1_clone_13::Construction Cone::link', 'cone1_clone_14::Construction Cone::link', 'cone1_clone_15::Construction Cone::link', 'cone1_clone_16::Construction Cone::link', 'cone1_clone_17::Construction Cone::link', 'cone1_clone_18::Construction Cone::link', 'cone1_clone_19::Construction Cone::link', 'cone1_clone_20::Construction Cone::link', 'cone1_clone_21::Construction Cone::link', 'cone1_clone_22::Construction Cone::link', 'cone1_clone_23::Construction Cone::link', 'cone1_clone_24::Construction Cone::link', 'cone1_clone_25::Construction Cone::link', 'cone1_clone_26::Construction Cone::link', 'cone1_clone_27::Construction Cone::link', 'cone1_clone_28::Construction Cone::link', 'cone1_clone_29::Construction Cone::link', 'cone1_clone_30::Construction Cone::link', 'cone1_clone_31::Construction Cone::link', 'cone1_clone_32::Construction Cone::link', 'cone1_clone_33::Construction Cone::link', 'cone1_clone_34::Construction Cone::link', 'cone1_clone_35::Construction Cone::link', 'cone1_clone_36::Construction Cone::link', 'cone1_clone_37::Construction Cone::link', 'cone1_clone_38::Construction Cone::link', 'cone1_clone_39::Construction Cone::link', 'cone1_clone_40::Construction Cone::link', 'cone1_clone_41::Construction Cone::link', 'cone1_clone_42::Construction Cone::link', 'cone1_clone_43::Construction Cone::link', 'cone1_clone_44::Construction Cone::link', 'cone1_clone_45::Construction Cone::link', 'cone1_clone_46::Construction Cone::link', 'cone1_clone_47::Construction Cone::link', 'cone1_clone_48::Construction Cone::link', 'cone1_clone_49::Construction Cone::link', 'cone1_clone_50::Construction Cone::link', 'cone1_clone_51::Construction Cone::link', 'cone1_clone_52::Construction Cone::link', 'cone1_clone_53::Construction Cone::link', 'cone1_clone_54::Construction Cone::link', 'cone1_clone_55::Construction Cone::link', 'cone1_clone_56::Construction Cone::link', 'cone1_clone_57::Construction Cone::link', 'cone1_clone_58::Construction Cone::link', 'cone1_clone_59::Construction Cone::link', 'cone1_clone_60::Construction Cone::link', 'cone1_clone_61::Construction Cone::link', 'cone1_clone_62::Construction Cone::link', 'cone1_clone_63::Construction Cone::link', 'cone1_clone_64::Construction Cone::link', 'cone1_clone_65::Construction Cone::link', 'cone1_clone_66::Construction Cone::link', 'cone1_clone_67::Construction Cone::link', 'cone1_clone_68::Construction Cone::link', 'cone1_clone_69::Construction Cone::link', 'cone1_clone_70::Construction Cone::link', 'cone1_clone_71::Construction Cone::link', 'cone1_clone_72::Construction Cone::link', 'cone1_clone_73::Construction Cone::link', 'cone1_clone_74::Construction Cone::link', 'cone1_clone_75::Construction Cone::link', 'cone1_clone_76::Construction Cone::link', 'cone1_clone_77::Construction Cone::link', 'cone1_clone_78::Construction Cone::link', 'cone1_clone_79::Construction Cone::link', 'cone1_clone_80::Construction Cone::link', 'cone1_clone_81::Construction Cone::link', 'cone1_clone_82::Construction Cone::link', 'cone1_clone_83::Construction Cone::link', 'cone1_clone_84::Construction Cone::link', 'cone1_clone_85::Construction Cone::link', 'cone1_clone_86::Construction Cone::link', 'cone1_clone_87::Construction Cone::link', 'cone1_clone_88::Construction Cone::link', 'cone1_clone_89::Construction Cone::link', 'cone1_clone_90::Construction Cone::link', 'cone1_clone_91::Construction Cone::link', 'cone1_clone_92::Construction Cone::link', 'cone1_clone_93::Construction Cone::link', 'cone1_clone_94::Construction Cone::link', 'cone1_clone_95::Construction Cone::link', 'cone1_clone_96::Construction Cone::link', 'cone1_clone_97::Construction Cone::link', 'cone1_clone_98::Construction Cone::link', 'cone1_clone_99::Construction Cone::link', 'cone1_clone_100::Construction Cone::link', 'cone1_clone_101::Construction Cone::link', 'cone1_clone_102::Construction Cone::link', 'cone1_clone_103::Construction Cone::link', 'cone1_clone_104::Construction Cone::link', 'cone1_clone_105::Construction Cone::link', 'cone1_clone_106::Construction Cone::link', 'cone1_clone_107::Construction Cone::link', 'cone1_clone_108::Construction Cone::link', 'cone1_clone_109::Construction Cone::link', 'cone1_clone_110::Construction Cone::link', 'cone1_clone_111::Construction Cone::link', 'cone1_clone_112::Construction Cone::link', 'cone1_clone_113::Construction Cone::link', 'cone1_clone_114::Construction Cone::link', 'cone1_clone_115::Construction Cone::link', 'cone1_clone_116::Construction Cone::link', 'cone1_clone_117::Construction Cone::link', 'cone1_clone_118::Construction Cone::link', 'cone1_clone_119::Construction Cone::link', 'cone1_clone_120::Construction Cone::link', 'cone1_clone_121::Construction Cone::link', 'cone1_clone_122::Construction Cone::link', 'cone1_clone_123::Construction Cone::link', 'cone1_clone_124::Construction Cone::link', 'cone1_clone_125::Construction Cone::link', 'cone1_clone_126::Construction Cone::link', 'cone1_clone_127::Construction Cone::link', 'cone1_clone_0::Construction Cone::link', 'cone1_clone_1::Construction Cone::link', 'cone1_clone_2::Construction Cone::link', 'cone1_clone_3::Construction Cone::link', 'cone1_clone_4::Construction Cone::link', 'cone1_clone_5::Construction Cone::link', 'cone1_clone_6::Construction Cone::link', 'cone1_clone_7::Construction Cone::link', 'cone1_clone_8::Construction Cone::link', 'cone1_clone_9::Construction Cone::link', 'cone1_clone_10::Construction Cone::link', 'cone1_clone_11::Construction Cone::link', 'cone1_clone_12::Construction Cone::link', 'cone1_clone_13::Construction Cone::link', 'cone1_clone_14::Construction Cone::link', 'cone1_clone_15::Construction Cone::link', 'cone1_clone_16::Construction Cone::link', 'cone1_clone_17::Construction Cone::link', 'cone1_clone_18::Construction Cone::link', 'cone1_clone_19::Construction Cone::link', 'cone1_clone_20::Construction Cone::link', 'cone1_clone_21::Construction Cone::link', 'cone1_clone_22::Construction Cone::link', 'cone1_clone_23::Construction Cone::link', 'cone1_clone_0::Construction Cone::link', 'cone1_clone_1::Construction Cone::link', 'cone1_clone_2::Construction Cone::link', 'cone1_clone_3::Construction Cone::link', 'cone1_clone_4::Construction Cone::link', 'cone1_clone_5::Construction Cone::link', 'cone1_clone_6::Construction Cone::link', 'cone1_clone_7::Construction Cone::link', 'cone1_clone_8::Construction Cone::link', 'cone1_clone_9::Construction Cone::link', 'cone1_clone_10::Construction Cone::link', 'cone1_clone_11::Construction Cone::link', 'cone1_clone_12::Construction Cone::link', 'cone1_clone_13::Construction Cone::link', 'cone1_clone_14::Construction Cone::link', 'cone1_clone_15::Construction Cone::link', 'cone1_clone_16::Construction Cone::link', 'cone1_clone_17::Construction Cone::link', 'cone1_clone_18::Construction Cone::link', 'cone1_clone_19::Construction Cone::link', 'cone1_clone_20::Construction Cone::link', 'cone1_clone_21::Construction Cone::link', 'cone1_clone_22::Construction Cone::link', 'cone1_clone_23::Construction Cone::link', 'cone1_clone_0::Construction Cone::link', 'cone1_clone_1::Construction Cone::link', 'cone1_clone_2::Construction Cone::link', 'cone1_clone_3::Construction Cone::link', 'cone1_clone_4::Construction Cone::link', 'cone1_clone_5::Construction Cone::link', 'cone1_clone_6::Construction Cone::link', 'cone1_clone_7::Construction Cone::link', 'cone1_clone_8::Construction Cone::link', 'cone1_clone_9::Construction Cone::link', 'cone1_clone_10::Construction Cone::link', 'cone1_clone_11::Construction Cone::link', 'cone1_clone_12::Construction Cone::link', 'cone1_clone_13::Construction Cone::link', 'cone1_clone_14::Construction Cone::link', 'cone1_clone_15::Construction Cone::link', 'cone1_clone_16::Construction Cone::link', 'cone1_clone_17::Construction Cone::link', 'cone1_clone_18::Construction Cone::link', 'cone1_clone_19::Construction Cone::link', 'cone1_clone_20::Construction Cone::link', 'cone1_clone_21::Construction Cone::link', 'cone1_clone_22::Construction Cone::link', 'cone1_clone_23::Construction Cone::link', 'cone1_clone_24::Construction Cone::link', 'cone1_clone_25::Construction Cone::link', 'cone1_clone_26::Construction Cone::link', 'cone1_clone_27::Construction Cone::link', 'cone1_clone_28::Construction Cone::link', 'cone1_clone_29::Construction Cone::link', 'cone1_clone_30::Construction Cone::link', 'cone1_clone_31::Construction Cone::link', 'cone1_clone_32::Construction Cone::link', 'cone1_clone_33::Construction Cone::link', 'cone1_clone_34::Construction Cone::link', 'cone1_clone_35::Construction Cone::link', 'cone1_clone_36::Construction Cone::link', 'cone1_clone_37::Construction Cone::link', 'cone1_clone_38::Construction Cone::link', 'cone1_clone_39::Construction Cone::link', 'cone1_clone_40::Construction Cone::link', 'cone1_clone_41::Construction Cone::link', 'cone1_clone_42::Construction Cone::link', 'cone1_clone_43::Construction Cone::link', 'cone1_clone_44::Construction Cone::link', 'cone1_clone_45::Construction Cone::link', 'cone1_clone_46::Construction Cone::link', 'cone1_clone_47::Construction Cone::link', 'cone1_clone_0::Construction Cone::link', 'cone1_clone_1::Construction Cone::link', 'cone1_clone_2::Construction Cone::link', 'cone1_clone_3::Construction Cone::link', 'cone1_clone_4::Construction Cone::link', 'cone1_clone_5::Construction Cone::link', 'cone1_clone_6::Construction Cone::link', 'cone1_clone_7::Construction Cone::link', 'cone1_clone_8::Construction Cone::link', 'cone1_clone_9::Construction Cone::link', 'cone1_clone_10::Construction Cone::link', 'cone1_clone_11::Construction Cone::link', 'cone1_clone_12::Construction Cone::link', 'cone1_clone_13::Construction Cone::link', 'cone1_clone_14::Construction Cone::link', 'cone1_clone_15::Construction Cone::link', 'cone1_clone_16::Construction Cone::link', 'cone1_clone_17::Construction Cone::link', 'cone1_clone_18::Construction Cone::link', 'cone1_clone_19::Construction Cone::link', 'cone1_clone_20::Construction Cone::link', 'cone1_clone_21::Construction Cone::link', 'cone1_clone_22::Construction Cone::link', 'cone1_clone_23::Construction Cone::link', 'cone1_clone_24::Construction Cone::link', 'cone1_clone_25::Construction Cone::link', 'cone1_clone_26::Construction Cone::link', 'cone1_clone_27::Construction Cone::link', 'cone1_clone_28::Construction Cone::link', 'cone1_clone_29::Construction Cone::link', 'cone1_clone_30::Construction Cone::link', 'cone1_clone_31::Construction Cone::link', 'cone1_clone_32::Construction Cone::link', 'cone1_clone_33::Construction Cone::link', 'cone1_clone_34::Construction Cone::link', 'cone1_clone_35::Construction Cone::link', 'cone1_clone_36::Construction Cone::link', 'cone1_clone_37::Construction Cone::link', 'cone1_clone_38::Construction Cone::link', 'cone1_clone_39::Construction Cone::link', 'cone1_clone_40::Construction Cone::link', 'cone1_clone_41::Construction Cone::link', 'cone1_clone_42::Construction Cone::link', 'cone1_clone_43::Construction Cone::link', 'cone1_clone_44::Construction Cone::link', 'cone1_clone_45::Construction Cone::link', 'cone1_clone_46::Construction Cone::link', 'cone1_clone_47::Construction Cone::link', 'cone1_clone_0::Construction Cone::link', 'cone1_clone_1::Construction Cone::link', 'cone1_clone_2::Construction Cone::link', 'cone1_clone_3::Construction Cone::link', 'cone1_clone_4::Construction Cone::link', 'cone1_clone_5::Construction Cone::link', 'cone1_clone_6::Construction Cone::link', 'cone1_clone_7::Construction Cone::link', 'cone1_clone_8::Construction Cone::link', 'cone1_clone_0::Construction Cone::link', 'cone1_clone_1::Construction Cone::link', 'cone1_clone_2::Construction Cone::link', 'cone1_clone_3::Construction Cone::link', 'cone1_clone_4::Construction Cone::link', 'cone1_clone_5::Construction Cone::link', 'cone1_clone_6::Construction Cone::link', 'cone1_clone_7::Construction Cone::link', 'cone1_clone_8::Construction Cone::link', 'cone1_clone_0::Construction Cone::link', 'cone1_clone_1::Construction Cone::link', 'cone1_clone_2::Construction Cone::link', 'cone1_clone_3::Construction Cone::link', 'cone1_clone_4::Construction Cone::link', 'cone1_clone_5::Construction Cone::link', 'cone1_clone_6::Construction Cone::link', 'cone1_clone_7::Construction Cone::link', 'cone1_clone_8::Construction Cone::link', 'cone1_clone_0::Construction Cone::link', 'cone1_clone_1::Construction Cone::link', 'cone1_clone_2::Construction Cone::link', 'cone1_clone_3::Construction Cone::link', 'cone1_clone_4::Construction Cone::link', 'cone1_clone_5::Construction Cone::link', 'cone1_clone_6::Construction Cone::link', 'cone1_clone_7::Construction Cone::link', 'cone1_clone_8::Construction Cone::link', 'jackal::base_link', 'jackal::front_left_wheel_link', 'jackal::front_right_wheel_link', 'jackal::rear_left_wheel_link', 'jackal::rear_right_wheel_link', 'cone1_clone_0_0::Construction Cone::link', 'cone1_clone_1_0::Construction Cone::link', 'cone1_clone_2_0::Construction Cone::link', 'cone1_clone_3_0::Construction Cone::link', 'cone1_clone_4_0::Construction Cone::link', 'cone1_clone_5_0::Construction Cone::link', 'cone1_clone_6_0::Construction Cone::link', 'cone1_clone_7_0::Construction Cone::link', 'cone1_clone_8_0::Construction Cone::link', 'cone1_clone_9_0::Construction Cone::link', 'cone1_clone_10_0::Construction Cone::link', 'cone1_clone_11_0::Construction Cone::link', 'cone1_clone_12_0::Construction Cone::link', 'cone1_clone_13_0::Construction Cone::link', 'cone1_clone_14_0::Construction Cone::link', 'cone1_clone_15_0::Construction Cone::link', 'cone1_clone_16_0::Construction Cone::link', 'cone1_clone_17_0::Construction Cone::link', 'cone1_clone_18_0::Construction Cone::link', 'cone1_clone_19_0::Construction Cone::link', 'cone1_clone_20_0::Construction Cone::link', 'cone1_clone_21_0::Construction Cone::link', 'cone1_clone_22_0::Construction Cone::link', 'cone1_clone_23_0::Construction Cone::link', 'cone1_clone_0_0::Construction Cone::link', 'cone1_clone_1_0::Construction Cone::link', 'cone1_clone_2_0::Construction Cone::link', 'cone1_clone_3_0::Construction Cone::link', 'cone1_clone_4_0::Construction Cone::link', 'cone1_clone_5_0::Construction Cone::link', 'cone1_clone_6_0::Construction Cone::link', 'cone1_clone_7_0::Construction Cone::link', 'cone1_clone_8_0::Construction Cone::link', 'cone1_clone_9_0::Construction Cone::link', 'cone1_clone_10_0::Construction Cone::link', 'cone1_clone_11_0::Construction Cone::link', 'cone1_clone_12_0::Construction Cone::link', 'cone1_clone_13_0::Construction Cone::link', 'cone1_clone_14_0::Construction Cone::link', 'cone1_clone_15_0::Construction Cone::link', 'cone1_clone_16_0::Construction Cone::link', 'cone1_clone_17_0::Construction Cone::link', 'cone1_clone_18_0::Construction Cone::link', 'cone1_clone_19_0::Construction Cone::link', 'cone1_clone_20_0::Construction Cone::link', 'cone1_clone_21_0::Construction Cone::link', 'cone1_clone_22_0::Construction Cone::link', 'cone1_clone_23_0::Construction Cone::link', 'cone1_clone_0_0::Construction Cone::link', 'cone1_clone_1_0::Construction Cone::link', 'cone1_clone_2_0::Construction Cone::link', 'cone1_clone_3_0::Construction Cone::link', 'cone1_clone_4_0::Construction Cone::link', 'cone1_clone_5_0::Construction Cone::link', 'cone1_clone_6_0::Construction Cone::link', 'cone1_clone_7_0::Construction Cone::link', 'cone1_clone_8_0::Construction Cone::link', 'cone1_clone_9_0::Construction Cone::link', 'cone1_clone_10_0::Construction Cone::link', 'cone1_clone_11_0::Construction Cone::link', 'cone1_clone_12_0::Construction Cone::link', 'cone1_clone_13_0::Construction Cone::link', 'cone1_clone_14_0::Construction Cone::link', 'cone1_clone_15_0::Construction Cone::link', 'cone1_clone_16_0::Construction Cone::link', 'cone1_clone_17_0::Construction Cone::link', 'cone1_clone_18_0::Construction Cone::link', 'cone1_clone_19_0::Construction Cone::link', 'cone1_clone_20_0::Construction Cone::link', 'cone1_clone_21_0::Construction Cone::link', 'cone1_clone_22_0::Construction Cone::link', 'cone1_clone_23_0::Construction Cone::link', 'cone1_clone_24_0::Construction Cone::link', 'cone1_clone_25_0::Construction Cone::link', 'cone1_clone_26_0::Construction Cone::link', 'cone1_clone_27_0::Construction Cone::link', 'cone1_clone_28_0::Construction Cone::link', 'cone1_clone_29_0::Construction Cone::link', 'cone1_clone_30_0::Construction Cone::link', 'cone1_clone_31_0::Construction Cone::link', 'cone1_clone_32_0::Construction Cone::link', 'cone1_clone_33_0::Construction Cone::link', 'cone1_clone_34_0::Construction Cone::link', 'cone1_clone_35_0::Construction Cone::link', 'cone1_clone_36_0::Construction Cone::link', 'cone1_clone_37_0::Construction Cone::link', 'cone1_clone_38_0::Construction Cone::link', 'cone1_clone_39_0::Construction Cone::link', 'cone1_clone_40_0::Construction Cone::link', 'cone1_clone_41_0::Construction Cone::link', 'cone1_clone_42_0::Construction Cone::link', 'cone1_clone_43_0::Construction Cone::link', 'cone1_clone_44_0::Construction Cone::link', 'cone1_clone_45_0::Construction Cone::link', 'cone1_clone_46_0::Construction Cone::link', 'cone1_clone_47_0::Construction Cone::link', 'cone1_clone_0_0::Construction Cone::link', 'cone1_clone_1_0::Construction Cone::link', 'cone1_clone_2_0::Construction Cone::link', 'cone1_clone_3_0::Construction Cone::link', 'cone1_clone_4_0::Construction Cone::link', 'cone1_clone_5_0::Construction Cone::link', 'cone1_clone_6_0::Construction Cone::link', 'cone1_clone_7_0::Construction Cone::link', 'cone1_clone_8_0::Construction Cone::link', 'cone1_clone_9_0::Construction Cone::link', 'cone1_clone_10_0::Construction Cone::link', 'cone1_clone_11_0::Construction Cone::link', 'cone1_clone_12_0::Construction Cone::link', 'cone1_clone_13_0::Construction Cone::link', 'cone1_clone_14_0::Construction Cone::link', 'cone1_clone_15_0::Construction Cone::link', 'cone1_clone_16_0::Construction Cone::link', 'cone1_clone_17_0::Construction Cone::link', 'cone1_clone_18_0::Construction Cone::link', 'cone1_clone_19_0::Construction Cone::link', 'cone1_clone_20_0::Construction Cone::link', 'cone1_clone_21_0::Construction Cone::link', 'cone1_clone_22_0::Construction Cone::link', 'cone1_clone_23_0::Construction Cone::link', 'cone1_clone_24_0::Construction Cone::link', 'cone1_clone_25_0::Construction Cone::link', 'cone1_clone_26_0::Construction Cone::link', 'cone1_clone_27_0::Construction Cone::link', 'cone1_clone_28_0::Construction Cone::link', 'cone1_clone_29_0::Construction Cone::link', 'cone1_clone_30_0::Construction Cone::link', 'cone1_clone_31_0::Construction Cone::link', 'cone1_clone_32_0::Construction Cone::link', 'cone1_clone_33_0::Construction Cone::link', 'cone1_clone_34_0::Construction Cone::link', 'cone1_clone_35_0::Construction Cone::link', 'cone1_clone_36_0::Construction Cone::link', 'cone1_clone_37_0::Construction Cone::link', 'cone1_clone_38_0::Construction Cone::link', 'cone1_clone_39_0::Construction Cone::link', 'cone1_clone_40_0::Construction Cone::link', 'cone1_clone_41_0::Construction Cone::link', 'cone1_clone_42_0::Construction Cone::link', 'cone1_clone_43_0::Construction Cone::link', 'cone1_clone_44_0::Construction Cone::link', 'cone1_clone_45_0::Construction Cone::link', 'cone1_clone_46_0::Construction Cone::link', 'cone1_clone_47_0::Construction Cone::link', 'cone1_clone_0_0::Construction Cone::link', 'cone1_clone_1_0::Construction Cone::link', 'cone1_clone_2_0::Construction Cone::link', 'cone1_clone_3_0::Construction Cone::link', 'cone1_clone_4_0::Construction Cone::link', 'cone1_clone_5_0::Construction Cone::link', 'cone1_clone_6_0::Construction Cone::link', 'cone1_clone_7_0::Construction Cone::link', 'cone1_clone_8_0::Construction Cone::link', 'cone1_clone_0_0::Construction Cone::link', 'cone1_clone_1_0::Construction Cone::link', 'cone1_clone_2_0::Construction Cone::link', 'cone1_clone_3_0::Construction Cone::link', 'cone1_clone_4_0::Construction Cone::link', 'cone1_clone_5_0::Construction Cone::link', 'cone1_clone_6_0::Construction Cone::link', 'cone1_clone_7_0::Construction Cone::link', 'cone1_clone_8_0::Construction Cone::link', 'cone1_clone_0_0::Construction Cone::link', 'cone1_clone_1_0::Construction Cone::link', 'cone1_clone_2_0::Construction Cone::link', 'cone1_clone_3_0::Construction Cone::link', 'cone1_clone_4_0::Construction Cone::link', 'cone1_clone_5_0::Construction Cone::link', 'cone1_clone_6_0::Construction Cone::link', 'cone1_clone_7_0::Construction Cone::link', 'cone1_clone_8_0::Construction Cone::link', 'cone1_clone_0_0::Construction Cone::link', 'cone1_clone_1_0::Construction Cone::link', 'cone1_clone_2_0::Construction Cone::link', 'cone1_clone_3_0::Construction Cone::link', 'cone1_clone_4_0::Construction Cone::link', 'cone1_clone_5_0::Construction Cone::link', 'cone1_clone_6_0::Construction Cone::link', 'cone1_clone_7_0::Construction Cone::link', 'cone1_clone_8_0::Construction Cone::link']
+pose: 
+  - 
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -1.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -1.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 0.00453126481523
+      y: -0.00239801126421
+      z: 0.0634998246561
+    orientation: 
+      x: -4.94872400587e-07
+      y: -4.84312331205e-06
+      z: 0.0029948400282
+      w: 0.999995515445
+  - 
+    position: 
+      x: 0.134404317167
+      y: 0.186177391942
+      z: 0.0980005855617
+    orientation: 
+      x: -6.4683662708e-05
+      y: 0.0155024855125
+      z: 0.00299210540754
+      w: 0.999875350263
+  - 
+    position: 
+      x: 0.1366536063
+      y: -0.189403503637
+      z: 0.0980008202109
+    orientation: 
+      x: -6.04686763887e-05
+      y: 0.0293096703317
+      z: 0.00299516680766
+      w: 0.999565890046
+  - 
+    position: 
+      x: -0.127591167292
+      y: 0.18460895648
+      z: 0.0979995675655
+    orientation: 
+      x: -3.51983489011e-05
+      y: 0.011930862272
+      z: 0.00299446699792
+      w: 0.999924340365
+  - 
+    position: 
+      x: -0.125341745824
+      y: -0.190974031369
+      z: 0.0980001587242
+    orientation: 
+      x: -6.545698172e-05
+      y: 0.0226564267409
+      z: 0.00299435865094
+      w: 0.999738823823
+  - 
+    position: 
+      x: 23.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: -14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: -10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: -6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: -2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: 2.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: 6.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: 10.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: 14.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -15.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -13.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -11.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -9.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -7.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -5.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -3.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -1.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 1.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 3.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 5.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 7.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 9.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 11.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 13.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 15.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: -29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: -25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 23.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 25.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: 27.0
+      y: -21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: 21.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: 25.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -27.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -25.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  - 
+    position: 
+      x: -23.0
+      y: 29.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+twist: 
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: -0.000232952005579
+      y: -0.000254008428737
+      z: -8.24543126854e-05
+    angular: 
+      x: -0.000764809986101
+      y: -0.000590055030071
+      z: 0.000710452178231
+  - 
+    linear: 
+      x: -0.000342778375305
+      y: -0.00014644212445
+      z: 0.000192695354153
+    angular: 
+      x: 0.00162025975437
+      y: -0.00350357881161
+      z: 0.00036442618537
+  - 
+    linear: 
+      x: -0.000130786402156
+      y: -0.000150952324801
+      z: -0.000184323176186
+    angular: 
+      x: 0.00134831958736
+      y: -0.00118757368731
+      z: 0.000643155549712
+  - 
+    linear: 
+      x: -0.000483314379234
+      y: -0.000319652286701
+      z: -0.000634162478327
+    angular: 
+      x: -0.0015200010731
+      y: -0.000581334619359
+      z: 0.000791843556514
+  - 
+    linear: 
+      x: -0.0001123683278
+      y: -0.000298931716022
+      z: 0.000336562808392
+    angular: 
+      x: 0.00304976203821
+      y: -0.0011613906661
+      z: 0.000398788140011
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  - 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+---
