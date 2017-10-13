@@ -47,12 +47,7 @@ cp -n /home/liron/jackal_navigation/src/my_pkg/scripts/cone_world1.yaml $mapname
 #		   free_thresh: 0.196\n "
 
 
-yaml_text="image: $mapname.png\n
-		   resolution: 0.0255863539\n
-		   origin: [-30.000000, -30.000000, 0.000000]\n
-		   negate: 0\n
-		   occupied_thresh: 0.65\n
-		   free_thresh: 0.196\n "		   
+yaml_text="image: $mapname.png\nresolution: 0.0255863539\norigin: [-30.000000, -30.000000, 0.000000]\nnegate: 0\noccupied_thresh: 0.65\nfree_thresh: 0.196\n"		   
 
 
 
