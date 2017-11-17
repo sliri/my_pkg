@@ -15,7 +15,8 @@ sleep 2s
 #terminator -e "rosrun my_pkg ground_truth2b.py $mapname1 $mapname2 $mapname3"&
 #terminator -e "rosrun my_pkg ground_truth3.py $mapname1 $mapname2 $mapname3"&
 #terminator -e "rosrun my_pkg ground_truth5.py $mapname1 $mapname2 $mapname3"&
-terminator -e "rosrun my_pkg ground_truth6.py $mapname1 $mapname2 $mapname3"&
+#terminator -e "rosrun my_pkg ground_truth6.py $mapname1 $mapname2 $mapname3"&
+terminator -e "rosrun my_pkg ground_truth7.py $mapname1 $mapname2 $mapname3"&
 
 sleep 10s
 cp -n /home/liron/jackal_navigation/src/jackal_simulator/jackal_gazebo/launch/$mapname.launch $mapname.launch 
