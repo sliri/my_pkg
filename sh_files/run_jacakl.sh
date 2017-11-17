@@ -5,11 +5,11 @@ sleep 8s
 
 #mapname=cone_orcahrd4_single_cone_dz2
 #mapname=cone_orcahrd4_single_cone_dy
-#mapname=cone_orcahrd4a
+#mapname=cone_orcahrd5a
 #mapname=cone_orcahrd4_interleaving_dy3
 #mapname=cone_orcahrd4_unique_pattern_cones_dy
 #mapname=cone_orchard4_one_rect
-mapname=cone_orcahrd5b #Two Cones missing
+#mapname=cone_orcahrd5b #Two Cones missing
 #mapname=cone_orcahrd5e #3 Cones missing
 #mapname=cone_orcahrd5c #Half row missing
 #mapname=cone_orcahrd5d #single cone missing
@@ -17,6 +17,24 @@ mapname=cone_orcahrd5b #Two Cones missing
 #mapname=cone_orcahrd6b #half row ahead
 #mapname=cone_orcahrd6c #single cylinder 
 #mapname=cone_orcahrd6d #3 cylinders near axis 
+#mapname=cone_orcahrd6e #3 Cones 1m ahead
+#mapname=cone_orcahrd6f #3 Cones 1m ahead
+#mapname=cone_orcahrd6g #3 Cones 1m ahead
+#mapname=cone_orcahrd7a # random positioning 1 rows
+#mapname=cone_orcahrd7b # random positioning 2 rows
+#mapname=cone_orcahrd8 #perfect population of cylinders
+#mapname=cone_orcahrd8a #perfect population of cylinders
+#mapname=cone_orcahrd8b #random cylinders
+#mapname=cone_orcahrd8c #random cylinders 20%
+#mapname=cone_orcahrd8d #random cylinders 20%
+#mapname=cone_orcahrd8e #random cylinders 20%
+#mapname=cone_orcahrd8f #random cylinders 20%
+#mapname=cone_orcahrd8g #random cylinders 20%
+
+#mapname=cone_orcahrd8bx #random cylinders 20% with +-20cm movement
+#mapname=cone_orcahrd8by #random cylinders 20% with +-20cm movement
+#mapname=cone_orcahrd8ga #random cylinders 20% with +-20cm movement
+mapname=cone_orcahrd8gb #random cylinders 20% with +-20cm movement
 
 export JACKAL_LASER=1
 export JACKAL_LASER_SCAN_TOPIC=front/scan
@@ -31,8 +49,8 @@ create_bag=false
 
 ##create map
 ###################################
-#create_map=true 
-create_map=false 
+create_map=true 
+#create_map=false 
 
 #headless
 ###################################
@@ -107,6 +125,7 @@ cd /home/liron/jackal_navigation/src/my_pkg/maps/$mapname
 
 
 sleep 5s
+
 
 gnome-terminal  -e "rosrun my_pkg doitall_node2.py $xinitial $yinitial $inject_initial_pose"&
 
